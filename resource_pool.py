@@ -1,5 +1,5 @@
 import threading
-from typing import Any, Callable, Dict, List, Optional, TypeVar, Generic
+from typing import Dict, List, Optional, TypeVar, Generic
 
 T = TypeVar('T')  
 
